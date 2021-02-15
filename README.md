@@ -1,6 +1,6 @@
 # Business-project-rand1
 
-#H1Why we did this?
+#h1Why we did this?
 This site is designed to master the practice of HTML and also the addition of CSS language.
 Learn about the attributes in html such as div, nav, and others.
 Repeated searching during the design of the site for features and formats that I did not know and now I know them well.
@@ -16,7 +16,7 @@ Navigate to the location where you want the app files to be using CLR.
 Copy and past it into the CLR then hit Enter
 You can then use any text editor of your choice to view the code. VScode or Atom are recommended though.
 Technologies used
-#H1Programming languages:
+#h1Programming languages:
 HTML
 CSS
 Bootstrap
@@ -25,5 +25,5 @@ Visual Studio Code
 Code Versioning Tool
 code Versioning Tool:
 Git using Github
-#H1Team Members:
+#h1Team Members:
 done by Rand Siaj
