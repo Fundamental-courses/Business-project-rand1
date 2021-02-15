@@ -1,10 +1,10 @@
 # Business-project-rand1
 
-#h1Why we did this?
+Why we did this?
 This site is designed to master the practice of HTML and also the addition of CSS language.
 Learn about the attributes in html such as div, nav, and others.
 Repeated searching during the design of the site for features and formats that I did not know and now I know them well.
-#H1What is this website ?
+What is this website ?
 The site illustrates the business world.
 How to install / run this website locally?
 You can get the source code of this website using one of the following two methods:
@@ -16,7 +16,7 @@ Navigate to the location where you want the app files to be using CLR.
 Copy and past it into the CLR then hit Enter
 You can then use any text editor of your choice to view the code. VScode or Atom are recommended though.
 Technologies used
-#h1Programming languages:
+Programming languages:
 HTML
 CSS
 Bootstrap
@@ -25,5 +25,5 @@ Visual Studio Code
 Code Versioning Tool
 code Versioning Tool:
 Git using Github
-#h1Team Members:
+Team Members:
 done by Rand Siaj
